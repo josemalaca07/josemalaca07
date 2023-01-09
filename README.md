@@ -4,19 +4,6 @@
   
 
 ### <div align="center"></div>  
-  
-
--   
-  
-
--   
-  
-
--   
-  
-
--   
-  
 
 <br/>  
 
@@ -80,19 +67,7 @@
 </div>  
   
 
-<br/>  
 
-
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
 
   
 
@@ -102,8 +77,6 @@
 <img src="https://komarev.com/ghpvc/?username=josemalaca07&&style=flat-square" align="center" />
 </div>  
   
-
-<br/>  
 
 
 <br />
